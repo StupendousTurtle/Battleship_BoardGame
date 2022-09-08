@@ -1,0 +1,2 @@
+# Battleship_BoardGame
+This is a Battleship boardgame Emulator against a CPU. A player can place their battleships on a grid as well as grenades. Hitting a grenade causes a player to lose their turn. Once all ships and grenades are placed, the user and CPU take turns hitting rockets on the board until one of the players is able to hit all og their opponent's hidden ships. Multiple methods were used to do the following: 
